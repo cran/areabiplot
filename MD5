@@ -1,0 +1,8 @@
+c6aa500be72ac65a21cf87fc9be9ba60 *DESCRIPTION
+f8149992649e94aded71246053a31498 *LICENSE
+a40750f7aacfca7a3b9bae8fc5b6c51f *NAMESPACE
+995621bd335b88f43ace9a70bd66704c *R/areabiplot.R
+0b8131031e7d7f5e62e50765c57f304f *build/partial.rdb
+faf0b155092f150d60d87826f7751a29 *man/areabiplot.Rd
+074fdf6dc7d54cd0589bbd0bd9c9b862 *tests/testthat.R
+d34d57f82ae1e156fb594850d28fc2ff *tests/testthat/test-areabiplot.R
